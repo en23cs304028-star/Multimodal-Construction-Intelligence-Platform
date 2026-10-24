@@ -43,7 +43,7 @@ st.set_page_config(
 
 CUSTOM_CSS = """
 <style>
-    .main-title { font-size: 2.2rem; font-weight: 700; color: #1E293B; margin-bottom: 0.2rem; }
+    .main-title { font-size: 2.2rem; font-weight: 700; color: inherit; margin-bottom: 0.2rem; }
     .sub-title  { font-size: 1.0rem; color: #64748B; margin-bottom: 1.5rem; }
     .pill { padding: 4px 14px; border-radius: 14px; font-weight: 600; display: inline-block; }
     .pill-green  { background: #DCFCE7; color: #166534; }
